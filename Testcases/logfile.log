@@ -1,0 +1,356 @@
+2024-09-11 11:02:25,088 :INFO : test_uielements :narayana logo is displayed on login screen
+2024-09-11 11:23:08,502 :INFO : narayana_logo :narayana logo is displayed
+2024-09-11 11:24:01,831 :INFO : narayana_logo :narayana logo is displayed
+2024-09-11 13:01:59,216 :INFO : test_login :admission number is 
+2024-09-11 13:33:26,997 :INFO : test_login :admission number is 
+2024-09-11 13:34:08,285 :INFO : narayana_logo :narayana logo is displayed
+2024-09-11 15:01:43,532 :INFO : narayana_logo :narayana logo is displayed
+2024-09-11 15:01:43,657 :INFO : welcome_to_narayana_text :******welcome to narayana text displayed
+2024-09-11 15:12:53,872 :INFO : narayana_logo :narayana logo is displayed
+2024-09-11 15:12:53,980 :INFO : welcome_to_narayana_text :******welcome to narayana text displayed*******
+2024-09-11 15:12:53,986 :INFO : welcome_to_narayana_text :******welcome to narayana text matched*******
+2024-09-11 15:55:46,717 :INFO : click_forgot_password_link :Forgot Password link is clickable
+2024-09-11 16:40:41,098 :INFO : enter_text_admission_number_textfield :****Admission number successfully entered in admission Number Textfield****
+2024-09-11 16:40:41,216 :INFO : enter_text_password_textfield :****Password successfully entered in Password textfield*****
+2024-09-11 16:40:41,297 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-11 16:42:00,299 :INFO : enter_text_admission_number_textfield :****Admission number successfully entered in admission Number Textfield****
+2024-09-11 16:42:00,402 :INFO : enter_text_password_textfield :****Password successfully entered in Password textfield*****
+2024-09-11 16:42:00,474 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-11 16:42:00,474 :INFO : test_login :*****successfully login*****
+2024-09-11 17:07:47,405 :INFO : enter_text_password_textfield :****Password successfully entered in Password textfield*****
+2024-09-11 17:07:47,467 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-11 17:32:18,479 :INFO : enter_text_admission_number_textfield :****Admission number successfully entered in admission Number Textfield****
+2024-09-11 17:32:18,593 :INFO : enter_text_password_textfield :****Password successfully entered in Password textfield*****
+2024-09-11 17:32:18,681 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-11 17:32:18,840 :INFO : test_invalid_admno_valid_pwd :****error message successfully and not able to login
+2024-09-11 18:07:12,920 :INFO : click_forgot_password_link :Forgot Password link is clickable
+2024-09-11 18:07:12,930 :INFO : test_click_forgot_password_link :Forgot Password link is clickable
+2024-09-11 18:07:26,468 :INFO : enter_text_admission_number_textfield :****Admission number successfully entered in admission Number Textfield****
+2024-09-11 18:07:26,590 :INFO : enter_text_password_textfield :****Password successfully entered in Password textfield*****
+2024-09-11 18:07:26,657 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-11 18:07:26,812 :INFO : test_invalid_admno_invalid_pwd :****error message successfully and not able to login
+2024-09-11 18:07:38,372 :INFO : enter_text_admission_number_textfield :****Admission number successfully entered in admission Number Textfield****
+2024-09-11 18:07:38,372 :INFO : enter_text_admission_number_textfield :****Admission number successfully entered in admission Number Textfield****
+2024-09-11 18:07:38,484 :INFO : enter_text_password_textfield :****Password successfully entered in Password textfield*****
+2024-09-11 18:07:38,484 :INFO : enter_text_password_textfield :****Password successfully entered in Password textfield*****
+2024-09-11 18:07:38,557 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-11 18:07:38,557 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-11 18:07:38,715 :INFO : test_invalid_admno_valid_pwd :****error message successfully and not able to login
+2024-09-11 18:07:50,128 :INFO : enter_text_admission_number_textfield :****Admission number successfully entered in admission Number Textfield****
+2024-09-11 18:07:50,128 :INFO : enter_text_admission_number_textfield :****Admission number successfully entered in admission Number Textfield****
+2024-09-11 18:07:50,128 :INFO : enter_text_admission_number_textfield :****Admission number successfully entered in admission Number Textfield****
+2024-09-11 18:07:50,246 :INFO : enter_text_password_textfield :****Password successfully entered in Password textfield*****
+2024-09-11 18:07:50,246 :INFO : enter_text_password_textfield :****Password successfully entered in Password textfield*****
+2024-09-11 18:07:50,246 :INFO : enter_text_password_textfield :****Password successfully entered in Password textfield*****
+2024-09-11 18:07:50,334 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-11 18:07:50,334 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-11 18:07:50,334 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-11 18:07:50,334 :INFO : test_login :*****successfully login*****
+2024-09-11 18:08:09,776 :INFO : enter_text_password_textfield :****Password successfully entered in Password textfield*****
+2024-09-11 18:08:09,776 :INFO : enter_text_password_textfield :****Password successfully entered in Password textfield*****
+2024-09-11 18:08:09,776 :INFO : enter_text_password_textfield :****Password successfully entered in Password textfield*****
+2024-09-11 18:08:09,776 :INFO : enter_text_password_textfield :****Password successfully entered in Password textfield*****
+2024-09-11 18:08:09,848 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-11 18:08:09,848 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-11 18:08:09,848 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-11 18:08:09,848 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-11 18:08:09,874 :INFO : test_login_with_blank_adm_txtfield :
+2024-09-11 18:08:24,103 :INFO : narayana_logo :*****narayana logo is displayed******
+2024-09-11 18:08:24,125 :INFO : nLearn_logo :*****nLearn logo is displayed******
+2024-09-11 18:08:24,152 :INFO : nLearn_kids_logo :*****nLearn Kids logo is displayed******
+2024-09-11 18:08:24,188 :INFO : welcome_to_narayana_text :******welcome to narayana text displayed*******
+2024-09-11 18:08:24,188 :INFO : welcome_to_narayana_text :******welcome to narayana text matched*******
+2024-09-11 18:08:24,227 :INFO : labeltxtisdisplayed :******Use login details shared to your registered phone number text displayed*******
+2024-09-11 18:08:24,227 :ERROR : labeltxtisdisplayed :Error while checking if the Use login details shared to your registered phone number text is not displayed: 'str' object has no attribute 'stript'
+2024-09-11 18:08:24,263 :INFO : admission_label_text_displayed :******Admission Number label text displayed*******
+2024-09-11 18:08:24,263 :INFO : admission_label_text_displayed :******Admission Number label text matched*******
+2024-09-11 18:08:24,291 :INFO : password_label_text_displayed :******Password label text displayed*******
+2024-09-11 18:08:24,292 :INFO : password_label_text_displayed :******Password label text matched*******
+2024-09-11 18:08:24,331 :INFO : forgot_password_link_displayed :***** forgot password link is displayed******
+2024-09-11 18:08:24,338 :INFO : forgot_password_link_displayed :*****Forgot Password link text matched
+2024-09-11 18:08:24,366 :INFO : tnc_text_displayed :****By Proceeding you are automatically accepting to T&C and Privacy Policy text displayed******
+2024-09-11 18:08:24,366 :INFO : tnc_text_displayed :****By Proceeding you are automatically accepting to T&C and Privacy Policy text matched******
+2024-09-11 18:08:24,391 :INFO : tnc_link_displayed :****T&C and Privacy Policy link text is displayed*****
+2024-09-11 18:08:24,391 :INFO : tnc_link_displayed :*****T&C and Privacy Policy link text matched*****
+2024-09-11 18:08:24,407 :INFO : tnc_checkbox_displayed :****TnC checkbox is displayed*****
+2024-09-11 18:08:24,427 :INFO : Comprehensive_curriculum_for_all_students_text_displayed :****Comprehensive curriculum for all students text is displayed****
+2024-09-11 18:08:24,427 :INFO : Comprehensive_curriculum_for_all_students_text_displayed :****Comprehensive curriculum for all students text is matched****
+2024-09-11 18:08:35,775 :INFO : enter_text_admission_number_textfield :****Admission number successfully entered in admission Number Textfield****
+2024-09-11 18:08:35,775 :INFO : enter_text_admission_number_textfield :****Admission number successfully entered in admission Number Textfield****
+2024-09-11 18:08:35,775 :INFO : enter_text_admission_number_textfield :****Admission number successfully entered in admission Number Textfield****
+2024-09-11 18:08:35,775 :INFO : enter_text_admission_number_textfield :****Admission number successfully entered in admission Number Textfield****
+2024-09-11 18:08:35,846 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-11 18:08:35,846 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-11 18:08:35,846 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-11 18:08:35,846 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-11 18:08:35,846 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-11 18:08:35,868 :INFO : test_valid_admno_empty_pwd :****error message successfully and not able to login
+2024-09-11 18:08:49,357 :INFO : enter_text_admission_number_textfield :****Admission number successfully entered in admission Number Textfield****
+2024-09-11 18:08:49,357 :INFO : enter_text_admission_number_textfield :****Admission number successfully entered in admission Number Textfield****
+2024-09-11 18:08:49,357 :INFO : enter_text_admission_number_textfield :****Admission number successfully entered in admission Number Textfield****
+2024-09-11 18:08:49,357 :INFO : enter_text_admission_number_textfield :****Admission number successfully entered in admission Number Textfield****
+2024-09-11 18:08:49,357 :INFO : enter_text_admission_number_textfield :****Admission number successfully entered in admission Number Textfield****
+2024-09-11 18:08:49,477 :INFO : enter_text_password_textfield :****Password successfully entered in Password textfield*****
+2024-09-11 18:08:49,477 :INFO : enter_text_password_textfield :****Password successfully entered in Password textfield*****
+2024-09-11 18:08:49,477 :INFO : enter_text_password_textfield :****Password successfully entered in Password textfield*****
+2024-09-11 18:08:49,477 :INFO : enter_text_password_textfield :****Password successfully entered in Password textfield*****
+2024-09-11 18:08:49,477 :INFO : enter_text_password_textfield :****Password successfully entered in Password textfield*****
+2024-09-11 18:08:49,549 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-11 18:08:49,549 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-11 18:08:49,549 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-11 18:08:49,549 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-11 18:08:49,549 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-11 18:08:49,549 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-11 18:08:49,699 :INFO : test_valid_admno_invalid_pwd :****error message successfully and not able to login
+2024-09-11 18:09:02,816 :INFO : enter_text_admission_number_textfield :****Admission number successfully entered in admission Number Textfield****
+2024-09-11 18:09:02,816 :INFO : enter_text_admission_number_textfield :****Admission number successfully entered in admission Number Textfield****
+2024-09-11 18:09:02,816 :INFO : enter_text_admission_number_textfield :****Admission number successfully entered in admission Number Textfield****
+2024-09-11 18:09:02,816 :INFO : enter_text_admission_number_textfield :****Admission number successfully entered in admission Number Textfield****
+2024-09-11 18:09:02,816 :INFO : enter_text_admission_number_textfield :****Admission number successfully entered in admission Number Textfield****
+2024-09-11 18:09:02,816 :INFO : enter_text_admission_number_textfield :****Admission number successfully entered in admission Number Textfield****
+2024-09-11 18:09:02,921 :INFO : enter_text_password_textfield :****Password successfully entered in Password textfield*****
+2024-09-11 18:09:02,921 :INFO : enter_text_password_textfield :****Password successfully entered in Password textfield*****
+2024-09-11 18:09:02,921 :INFO : enter_text_password_textfield :****Password successfully entered in Password textfield*****
+2024-09-11 18:09:02,921 :INFO : enter_text_password_textfield :****Password successfully entered in Password textfield*****
+2024-09-11 18:09:02,921 :INFO : enter_text_password_textfield :****Password successfully entered in Password textfield*****
+2024-09-11 18:09:02,921 :INFO : enter_text_password_textfield :****Password successfully entered in Password textfield*****
+2024-09-11 18:09:02,989 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-11 18:09:02,989 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-11 18:09:02,989 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-11 18:09:02,989 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-11 18:09:02,989 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-11 18:09:02,989 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-11 18:09:02,989 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-11 18:09:03,134 :INFO : test_wrong_admno_valid_pwd :****error message successfully and not able to login
+2024-09-12 11:04:32,999 :INFO : click_back_button :****back button in forgot password page is clickable****
+2024-09-12 11:17:17,730 :ERROR : test_submit_button_status_before_entering_number :Error while checking submit button status before and after entering admission number : Message: no such element: Unable to locate element: {"method":"xpath","selector":"//span[.='Submit']"}
+  (Session info: chrome=128.0.6613.137); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7AFCE9412+29090]
+	(No symbol) [0x00007FF7AFC5E239]
+	(No symbol) [0x00007FF7AFB1B1DA]
+	(No symbol) [0x00007FF7AFB6EFE7]
+	(No symbol) [0x00007FF7AFB6F23C]
+	(No symbol) [0x00007FF7AFBB97C7]
+	(No symbol) [0x00007FF7AFB9672F]
+	(No symbol) [0x00007FF7AFBB65A2]
+	(No symbol) [0x00007FF7AFB96493]
+	(No symbol) [0x00007FF7AFB609D1]
+	(No symbol) [0x00007FF7AFB61B31]
+	GetHandleVerifier [0x00007FF7B000871D+3302573]
+	GetHandleVerifier [0x00007FF7B0054243+3612627]
+	GetHandleVerifier [0x00007FF7B004A417+3572135]
+	GetHandleVerifier [0x00007FF7AFDA5EB6+801862]
+	(No symbol) [0x00007FF7AFC6945F]
+	(No symbol) [0x00007FF7AFC64FB4]
+	(No symbol) [0x00007FF7AFC65140]
+	(No symbol) [0x00007FF7AFC5461F]
+	BaseThreadInitThunk [0x00007FF8FE4B257D+29]
+	RtlUserThreadStart [0x00007FF8FF64AF28+40]
+
+2024-09-12 11:31:23,733 :INFO : enter_text_admission_number_textfield :****successfully entered admission number in admission number textfield****
+2024-09-12 11:31:23,808 :INFO : click_submit_btn :****Submit button is clickable after entering admission number****
+2024-09-12 11:32:24,799 :INFO : enter_text_admission_number_textfield :****successfully entered admission number in admission number textfield****
+2024-09-12 11:32:24,861 :INFO : click_submit_btn :****Submit button is clickable after entering admission number****
+2024-09-12 11:56:40,621 :INFO : enter_text_admission_number_textfield :****successfully entered admission number in admission number textfield****
+2024-09-12 11:56:40,700 :INFO : click_submit_btn :****Submit button is clickable after entering admission number****
+2024-09-12 11:56:40,709 :ERROR : test_valid_admno_click_submit_btn :Error while checking after entering valid admission number and clicking on submit button, user navigate to mobile verification page : Expected url: https://stage-nlearn.nspira.in/forgot-password/TP2023045, but got https://stage-nlearn.nspira.in/forgot-password
+assert 'https://stage-nlearn.nspira.in/forgot-password' == 'https://stage-nlearn.nspira.in/forgot-password/TP2023045'
+  
+  - https://stage-nlearn.nspira.in/forgot-password/TP2023045
+  ?                                               ----------
+  + https://stage-nlearn.nspira.in/forgot-password
+2024-09-12 15:17:49,098 :INFO : click_back_btn :***back button is clickable***
+2024-09-12 15:25:45,456 :INFO : click_verify_otp_btn :*** verify otp button is clickable***
+2024-09-12 15:25:45,509 :ERROR : test_error_text :Error while checking if after entering wrong otp, error text displayed: '' != 'You have entered wrong OTP'
++ You have entered wrong OTP
+ : Expected error message 'You have entered wrong OTP' but got ''
+2024-09-12 15:39:10,678 :INFO : test_resend_otp_button_visibility :***resend button is not visible****
+2024-09-12 15:39:50,702 :INFO : test_resend_otp_button_visibility :***resend button is visible after 30 seconds****
+2024-09-16 14:27:53,155 :INFO : enter_text_admission_number_textfield :****Admission number successfully entered in admission Number Textfield****
+2024-09-16 14:27:53,349 :INFO : enter_text_password_textfield :****Password successfully entered in Password textfield*****
+2024-09-16 14:27:53,455 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-16 14:28:00,298 :INFO : test_login :*****Login Fail*****
+2024-09-16 14:30:59,123 :INFO : enter_text_admission_number_textfield :****Admission number successfully entered in admission Number Textfield****
+2024-09-16 14:30:59,360 :INFO : enter_text_password_textfield :****Password successfully entered in Password textfield*****
+2024-09-16 14:30:59,500 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-16 14:31:06,828 :INFO : test_login :*****successfully login*****
+2024-09-16 15:54:59,633 :INFO : enter_text_admission_number_textfield :****Admission number successfully entered in admission Number Textfield****
+2024-09-16 15:54:59,774 :INFO : enter_text_password_textfield :****Password successfully entered in Password textfield*****
+2024-09-16 15:54:59,885 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-16 15:55:53,590 :INFO : enter_text_admission_number_textfield :****Admission number successfully entered in admission Number Textfield****
+2024-09-16 15:55:53,810 :INFO : enter_text_password_textfield :****Password successfully entered in Password textfield*****
+2024-09-16 15:55:53,927 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-16 15:57:45,342 :INFO : enter_text_admission_number_textfield :****Admission number successfully entered in admission Number Textfield****
+2024-09-16 15:57:45,491 :INFO : enter_text_password_textfield :****Password successfully entered in Password textfield*****
+2024-09-16 15:57:45,597 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-16 16:01:45,941 :INFO : enter_text_admission_number_textfield :****Admission number successfully entered in admission Number Textfield****
+2024-09-16 16:01:46,163 :INFO : enter_text_password_textfield :****Password successfully entered in Password textfield*****
+2024-09-16 16:01:46,306 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-16 16:23:34,833 :INFO : enter_text_admission_number_textfield :****Admission number successfully entered in admission Number Textfield****
+2024-09-16 16:23:35,063 :INFO : enter_text_password_textfield :****Password successfully entered in Password textfield*****
+2024-09-16 16:23:35,147 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-16 16:26:08,318 :INFO : enter_text_admission_number_textfield :****Admission number successfully entered in admission Number Textfield****
+2024-09-16 16:26:08,413 :INFO : enter_text_password_textfield :****Password successfully entered in Password textfield*****
+2024-09-16 16:26:08,485 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-16 16:30:09,665 :INFO : enter_text_admission_number_textfield :****Admission number successfully entered in admission Number Textfield****
+2024-09-16 16:30:09,769 :INFO : enter_text_password_textfield :****Password successfully entered in Password textfield*****
+2024-09-16 16:30:09,841 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-16 16:33:26,744 :INFO : enter_text_admission_number_textfield :****Admission number successfully entered in admission Number Textfield****
+2024-09-16 16:33:26,850 :INFO : enter_text_password_textfield :****Password successfully entered in Password textfield*****
+2024-09-16 16:33:26,930 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-16 16:36:12,629 :INFO : enter_text_admission_number_textfield :****Admission number successfully entered in admission Number Textfield****
+2024-09-16 16:36:12,732 :INFO : enter_text_password_textfield :****Password successfully entered in Password textfield*****
+2024-09-16 16:36:12,800 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-16 17:50:29,049 :INFO : enter_text_admission_number_textfield :****Admission number successfully entered in admission Number Textfield****
+2024-09-16 17:50:29,147 :INFO : enter_text_password_textfield :****Password successfully entered in Password textfield*****
+2024-09-16 17:50:29,223 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-16 17:54:20,937 :INFO : enter_text_admission_number_textfield :****Admission number successfully entered in admission Number Textfield****
+2024-09-16 17:54:21,038 :INFO : enter_text_password_textfield :****Password successfully entered in Password textfield*****
+2024-09-16 17:54:21,106 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-16 17:54:31,174 :INFO : test_click_schedule_left_nav_btn :***schedule nav btn is clickable
+2024-09-16 17:58:44,761 :INFO : enter_text_admission_number_textfield :****Admission number successfully entered in admission Number Textfield****
+2024-09-16 17:58:44,859 :INFO : enter_text_password_textfield :****Password successfully entered in Password textfield*****
+2024-09-16 17:58:44,927 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-16 18:00:42,070 :INFO : enter_text_admission_number_textfield :****Admission number successfully entered in admission Number Textfield****
+2024-09-16 18:00:42,197 :INFO : enter_text_password_textfield :****Password successfully entered in Password textfield*****
+2024-09-16 18:00:42,269 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-16 18:05:24,566 :INFO : enter_text_admission_number_textfield :****Admission number successfully entered in admission Number Textfield****
+2024-09-16 18:05:24,688 :INFO : enter_text_password_textfield :****Password successfully entered in Password textfield*****
+2024-09-16 18:05:24,757 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-16 18:09:55,214 :INFO : enter_text_admission_number_textfield :****Admission number successfully entered in admission Number Textfield****
+2024-09-16 18:09:55,314 :INFO : enter_text_password_textfield :****Password successfully entered in Password textfield*****
+2024-09-16 18:09:55,388 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-16 18:11:03,101 :INFO : enter_text_admission_number_textfield :****Admission number successfully entered in admission Number Textfield****
+2024-09-16 18:11:03,194 :INFO : enter_text_password_textfield :****Password successfully entered in Password textfield*****
+2024-09-16 18:11:03,262 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-16 18:11:18,368 :INFO : test_click_schedule_left_nav_btn :***schedule nav btn is clickable***
+2024-09-16 18:16:45,061 :INFO : enter_text_admission_number_textfield :****Admission number successfully entered in admission Number Textfield****
+2024-09-16 18:16:45,161 :INFO : enter_text_password_textfield :****Password successfully entered in Password textfield*****
+2024-09-16 18:16:45,228 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-16 18:17:00,325 :INFO : test_click_Learn_left_nav_btn :***Learn nav btn is clickable user navigate to learn page***
+2024-09-16 18:27:55,183 :INFO : enter_text_admission_number_textfield :****Admission number successfully entered in admission Number Textfield****
+2024-09-16 18:27:55,293 :INFO : enter_text_password_textfield :****Password successfully entered in Password textfield*****
+2024-09-16 18:27:55,375 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-16 18:29:24,695 :INFO : enter_text_admission_number_textfield :****Admission number successfully entered in admission Number Textfield****
+2024-09-16 18:29:24,803 :INFO : enter_text_password_textfield :****Password successfully entered in Password textfield*****
+2024-09-16 18:29:24,894 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-16 18:33:25,794 :INFO : enter_text_admission_number_textfield :****Admission number successfully entered in admission Number Textfield****
+2024-09-16 18:33:25,897 :INFO : enter_text_password_textfield :****Password successfully entered in Password textfield*****
+2024-09-16 18:33:25,961 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-16 18:36:40,588 :INFO : enter_text_admission_number_textfield :****Admission number successfully entered in admission Number Textfield****
+2024-09-16 18:36:40,757 :INFO : enter_text_password_textfield :****Password successfully entered in Password textfield*****
+2024-09-16 18:36:40,896 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-16 18:40:28,209 :INFO : enter_text_admission_number_textfield :****Admission number successfully entered in admission Number Textfield****
+2024-09-16 18:40:28,368 :INFO : enter_text_password_textfield :****Password successfully entered in Password textfield*****
+2024-09-16 18:40:28,533 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-17 10:41:40,270 :INFO : enter_text_admission_number_textfield :****Admission number successfully entered in admission Number Textfield****
+2024-09-17 10:41:40,435 :INFO : enter_text_password_textfield :****Password successfully entered in Password textfield*****
+2024-09-17 10:41:40,562 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-17 23:24:08,958 :INFO : enter_text_admission_number_textfield :****Admission number successfully entered in admission Number Textfield****
+2024-09-17 23:24:09,026 :INFO : enter_text_password_textfield :****Password successfully entered in Password textfield*****
+2024-09-17 23:24:09,078 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-17 23:24:15,687 :INFO : test_login :*****successfully login*****
+2024-09-17 23:27:11,373 :INFO : enter_text_admission_number_textfield :****Admission number successfully entered in admission Number Textfield****
+2024-09-17 23:27:11,432 :INFO : enter_text_password_textfield :****Password successfully entered in Password textfield*****
+2024-09-17 23:27:11,487 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-17 23:27:17,670 :INFO : test_login :*****successfully login*****
+2024-09-17 23:28:08,079 :INFO : click_forgot_password_link :Forgot Password link is clickable
+2024-09-17 23:28:08,085 :INFO : test_click_forgot_password_link :Forgot Password link is clickable
+2024-09-17 23:28:19,655 :INFO : enter_text_admission_number_textfield :****Admission number successfully entered in admission Number Textfield****
+2024-09-17 23:28:19,725 :INFO : enter_text_password_textfield :****Password successfully entered in Password textfield*****
+2024-09-17 23:28:19,777 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-17 23:28:19,964 :INFO : test_invalid_admno_invalid_pwd :****error message successfully and not able to login
+2024-09-17 23:28:27,640 :INFO : enter_text_admission_number_textfield :****Admission number successfully entered in admission Number Textfield****
+2024-09-17 23:28:27,640 :INFO : enter_text_admission_number_textfield :****Admission number successfully entered in admission Number Textfield****
+2024-09-17 23:28:27,716 :INFO : enter_text_password_textfield :****Password successfully entered in Password textfield*****
+2024-09-17 23:28:27,716 :INFO : enter_text_password_textfield :****Password successfully entered in Password textfield*****
+2024-09-17 23:28:27,764 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-17 23:28:27,764 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-17 23:28:27,943 :INFO : test_invalid_admno_valid_pwd :****error message successfully and not able to login
+2024-09-17 23:28:42,592 :INFO : enter_text_admission_number_textfield :****Admission number successfully entered in admission Number Textfield****
+2024-09-17 23:28:42,592 :INFO : enter_text_admission_number_textfield :****Admission number successfully entered in admission Number Textfield****
+2024-09-17 23:28:42,592 :INFO : enter_text_admission_number_textfield :****Admission number successfully entered in admission Number Textfield****
+2024-09-17 23:28:42,673 :INFO : enter_text_password_textfield :****Password successfully entered in Password textfield*****
+2024-09-17 23:28:42,673 :INFO : enter_text_password_textfield :****Password successfully entered in Password textfield*****
+2024-09-17 23:28:42,673 :INFO : enter_text_password_textfield :****Password successfully entered in Password textfield*****
+2024-09-17 23:28:42,720 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-17 23:28:42,720 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-17 23:28:42,720 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-17 23:28:48,500 :INFO : test_login :*****successfully login*****
+2024-09-17 23:28:56,764 :INFO : enter_text_password_textfield :****Password successfully entered in Password textfield*****
+2024-09-17 23:28:56,764 :INFO : enter_text_password_textfield :****Password successfully entered in Password textfield*****
+2024-09-17 23:28:56,764 :INFO : enter_text_password_textfield :****Password successfully entered in Password textfield*****
+2024-09-17 23:28:56,764 :INFO : enter_text_password_textfield :****Password successfully entered in Password textfield*****
+2024-09-17 23:28:56,807 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-17 23:28:56,807 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-17 23:28:56,807 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-17 23:28:56,807 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-17 23:28:56,828 :INFO : test_login_with_blank_adm_txtfield :
+2024-09-17 23:29:05,348 :INFO : narayana_logo :*****narayana logo is displayed******
+2024-09-17 23:29:05,360 :INFO : nLearn_logo :*****nLearn logo is displayed******
+2024-09-17 23:29:05,369 :INFO : nLearn_kids_logo :*****nLearn Kids logo is displayed******
+2024-09-17 23:29:05,384 :INFO : welcome_to_narayana_text :******welcome to narayana text displayed*******
+2024-09-17 23:29:05,385 :INFO : welcome_to_narayana_text :******welcome to narayana text matched*******
+2024-09-17 23:29:05,397 :INFO : labeltxtisdisplayed :******Use login details shared to your registered phone number text displayed*******
+2024-09-17 23:29:05,397 :ERROR : labeltxtisdisplayed :Error while checking if the Use login details shared to your registered phone number text is not displayed: 'str' object has no attribute 'stript'
+2024-09-17 23:29:05,413 :INFO : admission_label_text_displayed :******Admission Number label text displayed*******
+2024-09-17 23:29:05,415 :INFO : admission_label_text_displayed :******Admission Number label text matched*******
+2024-09-17 23:29:05,436 :INFO : password_label_text_displayed :******Password label text displayed*******
+2024-09-17 23:29:05,436 :INFO : password_label_text_displayed :******Password label text matched*******
+2024-09-17 23:29:05,449 :INFO : forgot_password_link_displayed :***** forgot password link is displayed******
+2024-09-17 23:29:05,452 :INFO : forgot_password_link_displayed :*****Forgot Password link text matched
+2024-09-17 23:29:05,467 :INFO : tnc_text_displayed :****By Proceeding you are automatically accepting to T&C and Privacy Policy text displayed******
+2024-09-17 23:29:05,467 :INFO : tnc_text_displayed :****By Proceeding you are automatically accepting to T&C and Privacy Policy text matched******
+2024-09-17 23:29:05,479 :INFO : tnc_link_displayed :****T&C and Privacy Policy link text is displayed*****
+2024-09-17 23:29:05,479 :INFO : tnc_link_displayed :*****T&C and Privacy Policy link text matched*****
+2024-09-17 23:29:05,488 :INFO : tnc_checkbox_displayed :****TnC checkbox is displayed*****
+2024-09-17 23:29:05,500 :INFO : Comprehensive_curriculum_for_all_students_text_displayed :****Comprehensive curriculum for all students text is displayed****
+2024-09-17 23:29:05,500 :INFO : Comprehensive_curriculum_for_all_students_text_displayed :****Comprehensive curriculum for all students text is matched****
+2024-09-17 23:29:14,029 :INFO : enter_text_admission_number_textfield :****Admission number successfully entered in admission Number Textfield****
+2024-09-17 23:29:14,029 :INFO : enter_text_admission_number_textfield :****Admission number successfully entered in admission Number Textfield****
+2024-09-17 23:29:14,029 :INFO : enter_text_admission_number_textfield :****Admission number successfully entered in admission Number Textfield****
+2024-09-17 23:29:14,029 :INFO : enter_text_admission_number_textfield :****Admission number successfully entered in admission Number Textfield****
+2024-09-17 23:29:14,090 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-17 23:29:14,090 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-17 23:29:14,090 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-17 23:29:14,090 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-17 23:29:14,090 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-17 23:29:14,102 :INFO : test_valid_admno_empty_pwd :****error message successfully and not able to login
+2024-09-17 23:29:25,910 :INFO : enter_text_admission_number_textfield :****Admission number successfully entered in admission Number Textfield****
+2024-09-17 23:29:25,910 :INFO : enter_text_admission_number_textfield :****Admission number successfully entered in admission Number Textfield****
+2024-09-17 23:29:25,910 :INFO : enter_text_admission_number_textfield :****Admission number successfully entered in admission Number Textfield****
+2024-09-17 23:29:25,910 :INFO : enter_text_admission_number_textfield :****Admission number successfully entered in admission Number Textfield****
+2024-09-17 23:29:25,910 :INFO : enter_text_admission_number_textfield :****Admission number successfully entered in admission Number Textfield****
+2024-09-17 23:29:25,981 :INFO : enter_text_password_textfield :****Password successfully entered in Password textfield*****
+2024-09-17 23:29:25,981 :INFO : enter_text_password_textfield :****Password successfully entered in Password textfield*****
+2024-09-17 23:29:25,981 :INFO : enter_text_password_textfield :****Password successfully entered in Password textfield*****
+2024-09-17 23:29:25,981 :INFO : enter_text_password_textfield :****Password successfully entered in Password textfield*****
+2024-09-17 23:29:25,981 :INFO : enter_text_password_textfield :****Password successfully entered in Password textfield*****
+2024-09-17 23:29:26,032 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-17 23:29:26,032 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-17 23:29:26,032 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-17 23:29:26,032 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-17 23:29:26,032 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-17 23:29:26,032 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-17 23:29:26,223 :INFO : test_valid_admno_invalid_pwd :****error message successfully and not able to login
+2024-09-17 23:29:33,769 :INFO : enter_text_admission_number_textfield :****Admission number successfully entered in admission Number Textfield****
+2024-09-17 23:29:33,769 :INFO : enter_text_admission_number_textfield :****Admission number successfully entered in admission Number Textfield****
+2024-09-17 23:29:33,769 :INFO : enter_text_admission_number_textfield :****Admission number successfully entered in admission Number Textfield****
+2024-09-17 23:29:33,769 :INFO : enter_text_admission_number_textfield :****Admission number successfully entered in admission Number Textfield****
+2024-09-17 23:29:33,769 :INFO : enter_text_admission_number_textfield :****Admission number successfully entered in admission Number Textfield****
+2024-09-17 23:29:33,769 :INFO : enter_text_admission_number_textfield :****Admission number successfully entered in admission Number Textfield****
+2024-09-17 23:29:33,828 :INFO : enter_text_password_textfield :****Password successfully entered in Password textfield*****
+2024-09-17 23:29:33,828 :INFO : enter_text_password_textfield :****Password successfully entered in Password textfield*****
+2024-09-17 23:29:33,828 :INFO : enter_text_password_textfield :****Password successfully entered in Password textfield*****
+2024-09-17 23:29:33,828 :INFO : enter_text_password_textfield :****Password successfully entered in Password textfield*****
+2024-09-17 23:29:33,828 :INFO : enter_text_password_textfield :****Password successfully entered in Password textfield*****
+2024-09-17 23:29:33,828 :INFO : enter_text_password_textfield :****Password successfully entered in Password textfield*****
+2024-09-17 23:29:33,880 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-17 23:29:33,880 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-17 23:29:33,880 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-17 23:29:33,880 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-17 23:29:33,880 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-17 23:29:33,880 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-17 23:29:33,880 :INFO : click_login_btn :*****Login button is clickable******
+2024-09-17 23:29:34,069 :INFO : test_wrong_admno_valid_pwd :****error message successfully and not able to login
