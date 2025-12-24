@@ -12,3 +12,7 @@ class BaseClass:
         logger.addHandler(fileHandler)
         logger.setLevel(logging.DEBUG)
         return logger
+
+
+    def test_one(self):
+        print("hello")
